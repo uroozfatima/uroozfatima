@@ -3,7 +3,7 @@
   ================================================
   Sections are marked with HTML comments so you know exactly
   where to edit things later. Nothing in this file is fabricated —
-  every project, link, and stat pulls from your real GitHub data
+  every project,link, and stat pulls from your real GitHub data
   or from information you provided directly.
 -->
 
